@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
     // NotificationManager mNotifyMgr = (NotificationManager) getSystemService(NOTIFICATION_SERVICE);
     // Button update = (Button) findViewById(R.id.update_button);
     // Button cancel = (Button) findViewById(R.id.cancel_button);
-    // Button notifyMe = (Button) findViewById(R.id.notify_button);
+    // Button notifyMe = (Button) findViewById(R.id.notify_button); ////
 
 
     @Override
